@@ -1,5 +1,5 @@
 # pcReverse
-收集的windows逆向学习资料
+windows逆向学习资料
 
 持续更新中。。。
 
